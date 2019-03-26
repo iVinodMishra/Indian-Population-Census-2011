@@ -1,6 +1,11 @@
 Data Analysis for data set - India Census 2011
 ===
 
+This Repository consists of the following
+1. README.txt (this file)
+2. Dataset : "india-districts-census-2011.csv"
+3. Tableau Dashboard Workbook
+
 ###### Performed Extensive analysis on data set - India Census 2011 and created following dashboards using Tableau Desktop
 ###### Used various analytical Functions, Bar charts, Line graph, Maps for displayed various parameters.
 
