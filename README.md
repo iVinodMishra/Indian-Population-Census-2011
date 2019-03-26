@@ -5,7 +5,7 @@ Data Analysis for data set - India Census 2011
 2. Used various analytical Functions, Bar charts, Line graph, Maps for displayed various parameters.
 
 
-***Population Dashboard***
+###### Population Dashboard
 ```
 1. Total population including number of Male and Female population along with Religion statistics in every state.
 2. Population in different age groups like 0 to 29, 30 to 50, 50+ present in every state.
@@ -13,31 +13,30 @@ Data Analysis for data set - India Census 2011
 ```
 
 
-***Workers Dashboard***
+###### Workers Dashboard
 ```
 1. No of Male, Female Workers district wise as well as state wise.
 2. Different types of workers such as Agricultural, Cultivator, Household etc.
 ```
 
 
-***Education Dashboard***
+###### Education Dashboard
 ```
 1. Displayed no of Male and Female Literate Population which exists.
 2. No of people with different qualifications present in different state as well as district wise.
 ```
 
 
-***Household Dashboard***
+###### Household Dashboard
 ```
 1. Total no of rural, urban Household present, no of household with size ranging from 1 to 9.
 2. Total no of household with access to various Resources, also with respect to state.
 ```
 
 
-***Income Dashboard***
+###### Income Dashboard
 ```
 Displayed total no of people ranging in various income range like 0 to Rs 45000, 45,000 to 90,000 and so on as per individual states and in all total.
 ```
 
-Data set was referred from [Kaggle](https://www.kaggle.com/danofer/india-census#india-districts-census-2011.csv)
-===
+###### For Data set, refer [Kaggle](https://www.kaggle.com/danofer/india-census#india-districts-census-2011.csv)
