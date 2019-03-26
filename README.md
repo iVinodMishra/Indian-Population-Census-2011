@@ -39,3 +39,5 @@ Data Analysis for data set - India Census 2011
 Displayed total no of people ranging in various income range like 0 to Rs 45000, 45,000 to 90,000 and so on as per individual states and in all total.
 ```
 
+Data set was referred from [Kaggle](https://www.kaggle.com/danofer/india-census#india-districts-census-2011.csv)
+===
