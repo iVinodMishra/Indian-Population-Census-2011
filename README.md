@@ -40,3 +40,6 @@ Displayed total no of people ranging in various income range like 0 to Rs 45000,
 ```
 
 ###### For Data set, refer [Kaggle](https://www.kaggle.com/danofer/india-census#india-districts-census-2011.csv)
+###### Dashboard - [Tableau](https://public.tableau.com/profile/shreerangscp#!/)
+
+
