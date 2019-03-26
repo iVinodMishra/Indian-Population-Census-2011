@@ -44,6 +44,14 @@ This Repository consists of the following
 Displayed total no of people ranging in various income range like 0 to Rs 45000, 45,000 to 90,000 and so on as per individual states and in all total.
 ```
 
+
+###### Literacy Dashboard
+```
+Displayed Literacy Rates of each state from state with literacy rate to state with lower literacy rate
+Displayed Female to male literacy rate of each state.
+```
+
+
 ###### For Data set, refer [Kaggle](https://www.kaggle.com/danofer/india-census#india-districts-census-2011.csv)
 ###### Dashboard - [Tableau](https://public.tableau.com/profile/shreerangscp#!/)
 
